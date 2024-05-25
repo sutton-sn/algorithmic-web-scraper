@@ -1,6 +1,6 @@
 # Algorithmic Web Scraper with Theme Classification
 
-![Logo](logo.png)
+![Interface](screen.png)
 
 ## Description
 
@@ -54,10 +54,6 @@ The application provides a simple and modern graphical interface:
 ### Example 2: Themed Paragraphs
 
 ![Spacex](spacex-test.png)
-
-### Interface
-
-![Interface](screen.png)
 
 ## Contributions
 
